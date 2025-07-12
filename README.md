@@ -3,9 +3,6 @@ Animatronic Bitcoin Roller Coaster Guy meme
 
 https://youtu.be/6LMPZ0vmAZg?si=R0uDKdjLCbEVe37W
 
-
-
-
 RPi Zero 2 W 
 
 1602 LCD i2c
