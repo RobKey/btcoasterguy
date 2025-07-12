@@ -10,7 +10,7 @@ RPi Zero 2 W
 Servo motor SG-90
 
 <H2>3D Printed rollercoaster cart and case:</H2>
-The cart and bitcoin guy were creared by Robert Gremillion https://www.thingiverse.com/thing:2523635</br>
+The cart and bitcoin guy creared by Robert Gremillion https://www.thingiverse.com/thing:2523635</br>
 the cart and bitcoin guy have been reduced to 75% and the cart base modified to attach to the servo.</br>
         
 <img width="476" height="677" alt="Screenshot 2025-07-12 230009" src="https://github.com/user-attachments/assets/f2459ce3-9d8b-46a2-8895-172b688901d0" />
