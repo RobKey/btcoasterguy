@@ -1,5 +1,6 @@
 Animatronic Bitcoin Roller Coaster Guy meme
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6LMPZ0vmAZg?si=DIQFE_2f5YZZUT0B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img width="1509" height="953" alt="Screenshot 2025-06-28 120952" src="https://github.com/user-attachments/assets/bd373b80-c026-482c-bd35-e46f288885fa" />
+
 
 
 RPi Zero 2 W 
