@@ -15,7 +15,5 @@ the cart and bitcoin guy have been reduced to 75% and the cart base modified to 
         
 <img width="476" height="677" alt="Screenshot 2025-07-12 230009" src="https://github.com/user-attachments/assets/f2459ce3-9d8b-46a2-8895-172b688901d0" />
 <img width="465" height="771" alt="Screenshot 2025-07-12 225936" src="https://github.com/user-attachments/assets/29b720c8-5fa0-4913-a4ad-14633fed14e5" />
-![20250705_112826](https://github.com/user-attachments/assets/702212a8-0285-46c7-bdb1-93c588a4471d)
-![20250705_112854](https://github.com/user-attachments/assets/6cdab0c2-07a7-4c3a-8a8d-0c4aa849f9c4)
-![20250705_173111](https://github.com/user-attachments/assets/4251d6ab-62a0-49cf-af6a-0c9376236c1d)
-![20250705_173127](https://github.com/user-attachments/assets/aaa0dc82-a5ac-4782-9bba-86c549adb688)
+
+![20250705_173111](https://github.com/user-attachments/assets/2ccce7c9-ca0c-4e16-81a1-95a2427ded0a)
