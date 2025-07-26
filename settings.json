@@ -1,0 +1,14 @@
+{
+    "app_name": "Bitcoin Roller Coaster Guy",
+    "version": "0.0.1",
+    "debug_mode": false,
+    "setdiff": 50,
+    "pwm_max": 12.5,
+    "pwm_min": 3.5,
+    "pwm_center": 8.0,
+    "move_type": 1,
+    "feature_flags": {
+        "show_unchanged": true,
+        "slow_return": false
+    }
+}
