@@ -11,13 +11,19 @@ RPi Zero 2 W
 Servo motor SG-90
 
 SETUP:
+git clone https://github.com/RobKey/btcoasterguy.git
+cd btcoasterguy
 
+LCD setup
 sudo raspi-config
     enable Inteface i2c
 
 sudo apt install i2c-tools -y
 sudo apt install python3-smbus -y
 git clone https://github.com/the-raspberry-pi-guy/lcd.git
+cd lcd
+python3 demo_lcd.py
+cp -a ~/lcd/drivers ~/btcoasterguy
 
 <H2>3D Printed rollercoaster cart and case:</H2>
 
