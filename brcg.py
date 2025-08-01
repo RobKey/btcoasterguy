@@ -326,7 +326,7 @@ if __name__ == "__main__":
                 pwm = num_to_range(diff,setdiff * -1,setdiff,pwm_min,pwm_max)
                 pwm = round(pwm, 2)
                 
-                print(f"",pwm, " ",lastpwm," ", diff)
+                #print(f"",pwm, " ",lastpwm," ", diff)
                 if move_type == 0:
                     #servo_pwm.ChangeDutyCycle(pwm)
                     smooth_servo_movement(servo_pwm, lastpwm, pwm, steps=abs(int(pwm - lastpwm) * 20), delay_per_step=0.025)
