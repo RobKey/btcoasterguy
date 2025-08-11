@@ -42,7 +42,7 @@ Setup service to start on boot</br>
 sudo cp -a ~/btcoasterguy/brcg.service /etc/systemd/system/</br>
 sudo chmod 644 /etc/systemd/system/brcg.service</br>
 sudo systemctl daemon-reload</br>
-systemctl enable myscript.service</br>
+systemctl enable brcg.service</br>
 
 <H2>3D Printed rollercoaster cart and case:</H2>
 
