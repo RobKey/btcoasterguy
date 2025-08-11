@@ -35,7 +35,12 @@ sudo reboot </br>
 git clone https://github.com/the-raspberry-pi-guy/lcd.git </br>
 cd lcd </br>
 python3 demo_lcd.py </br>
-cp -a ~/lcd/drivers ~/btcoasterguy </br>
+cp -a ~/lcd/drivers ~/btcoasterguy </br></br>
+
+Setup service to start on boot</br>
+sudo cp -a ~/btcoasterguy/brcg.service /etc/systemd/system/</br>
+sudo chmod 644 /etc/systemd/system/brcg.service</br>
+</br>
 
 <H2>3D Printed rollercoaster cart and case:</H2>
 
