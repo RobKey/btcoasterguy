@@ -14,8 +14,6 @@ SETUP: </br>
 ssh into your raspberry pi or use keyboard & monitor</br></br>
 git clone https://github.com/RobKey/btcoasterguy.git </br>
 cd btcoasterguy </br>
-python3 -m venv venv </br>
-source venv/bin/activate </br>
 sudo apt install python3-pip </br>
 pip install binance-connector </br>
 sudo apt-get install python3-rpi.gpio </br>
