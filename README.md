@@ -25,8 +25,9 @@ LCD setup </br>
 sudo raspi-config </br>
 ---enable Inteface i2c </br> 
 sudo apt install i2c-tools -y </br>
-sudo apt install python3-smbus -y </br></br>
-Reboot to enable i2c interface and dependancies </br></br>
+sudo apt install python3-smbus -y </br>
+sudo reboot </br>
+---to enable i2c interface and dependancies </br></br>
 
 git clone https://github.com/the-raspberry-pi-guy/lcd.git </br>
 cd lcd </br>
