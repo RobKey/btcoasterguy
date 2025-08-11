@@ -20,7 +20,7 @@ git clone https://github.com/RobKey/btcoasterguy.git </br>
 cd btcoasterguy </br>
 sudo apt install python3-pip </br>
 pip install binance-connector </br>
-pip install binance-connector  --break-system-packages</br>
+pip install binance-connector --break-system-packages</br>
 sudo apt-get install python3-rpi.gpio </br></br>
 
 
