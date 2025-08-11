@@ -12,6 +12,7 @@ Servo motor SG-90
 
 SETUP: </br>
 ssh into your raspberry pi or use keyboard & monitor</br></br>
+sudo apt install git</br>
 git clone https://github.com/RobKey/btcoasterguy.git </br>
 cd btcoasterguy </br>
 sudo apt install python3-pip </br>
