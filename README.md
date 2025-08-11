@@ -28,9 +28,6 @@ sudo apt install i2c-tools -y </br>
 sudo apt install python3-smbus -y </br></br>
 Reboot to enable i2c interface and dependancies </br></br>
 
-
-sudo apt install i2c-tools -y </br>
-sudo apt install python3-smbus -y </br>
 git clone https://github.com/the-raspberry-pi-guy/lcd.git </br>
 cd lcd </br>
 python3 demo_lcd.py </br>
