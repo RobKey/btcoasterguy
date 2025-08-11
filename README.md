@@ -12,6 +12,7 @@ Servo motor SG-90
 
 SETUP: </br>
 ssh into your raspberry pi or use keyboard & monitor</br></br>
+
 sudo apt update</br>
 sudo apt full-upgrade</br>
 sudo apt install git</br>
