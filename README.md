@@ -37,6 +37,15 @@ git clone https://github.com/the-raspberry-pi-guy/lcd.git </br>
 cd lcd </br>
 python3 demo_lcd.py </br>
 cp -a ~/lcd/drivers ~/btcoasterguy </br></br>
+cd ~/btcoasterguy</br>
+sudo chmod +x rc</br>
+./rc start</br>
+./rc stop</br>
+./rc status</br>
+./rc restart</br>
+python3 brcg.py</br>
+
+
 
 Setup service to start on boot</br>
 sudo cp -a ~/btcoasterguy/brcg.service /etc/systemd/system/</br>
