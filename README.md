@@ -40,7 +40,8 @@ cp -a ~/lcd/drivers ~/btcoasterguy </br></br>
 Setup service to start on boot</br>
 sudo cp -a ~/btcoasterguy/brcg.service /etc/systemd/system/</br>
 sudo chmod 644 /etc/systemd/system/brcg.service</br>
-</br>
+sudo systemctl daemon-reload</br>
+systemctl enable myscript.service</br>
 
 <H2>3D Printed rollercoaster cart and case:</H2>
 
