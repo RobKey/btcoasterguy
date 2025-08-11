@@ -17,7 +17,7 @@ git clone https://github.com/RobKey/btcoasterguy.git </br>
 cd btcoasterguy </br>
 sudo apt install python3-pip </br>
 pip install binance-connector </br>
-sudo apt-get install python3-rpi.gpio </br>
+sudo apt-get install python3-rpi.gpio </br></br>
 
 
 
@@ -26,7 +26,7 @@ sudo raspi-config </br>
 ---enable Inteface i2c </br> 
 sudo apt install i2c-tools -y </br>
 sudo apt install python3-smbus -y </br></br>
-Reboot to enable i2c interface </br></br>
+Reboot to enable i2c interface and dependancies </br></br>
 
 
 sudo apt install i2c-tools -y </br>
