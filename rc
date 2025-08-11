@@ -13,14 +13,14 @@
 start() {
     # code to start app comes here 
     # example: daemon program_name &
-    python3 /home/pi/btc/brcg.py &
+    python3 /home/pi/btcoasterguy/brcg.py &
     #sleep 2    
     echo "brcg.py Started"
 }
 
 stop() {
     # code to stop app comes here 
-    sudo kill $(ps aux | grep 'python3 /home/pi/btc/brcg.py' | awk 'NR==1{print $2}')
+    sudo kill $(ps aux | grep 'python3 /home/pi/btcoasterguy/brcg.py' | awk 'NR==1{print $2}')
     echo "brcg.py Stopped"
 }
 
@@ -36,7 +36,7 @@ case "$1" in
        start
        ;;
     status)
-       echo $(ps aux | grep 'python3 /home/pi/btc/brcg.py' | awk '{print}')
+       echo $(ps aux | grep 'python3 /home/pi/btcoasterguy/brcg.py' | awk '{print}')
        echo "End status." 
        ;;
     *)

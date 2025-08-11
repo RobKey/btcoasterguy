@@ -25,7 +25,9 @@ sudo apt-get install python3-rpi.gpio </br>
 LCD setup </br>
 sudo raspi-config </br>
 ---enable Inteface i2c </br> 
----Reboot to enable i2c interface </br></br>
+sudo apt install i2c-tools -y </br>
+sudo apt install python3-smbus -y </br></br>
+Reboot to enable i2c interface </br></br>
 
 
 sudo apt install i2c-tools -y </br>

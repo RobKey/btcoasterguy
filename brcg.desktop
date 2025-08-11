@@ -1,0 +1,7 @@
+Type=Application
+Exec=/home/pi/btcoasterguy/rc start
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=brcg
+Comment=Starts my application at boot
